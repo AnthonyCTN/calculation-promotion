@@ -8,16 +8,13 @@ a site where you put the price and the promotion in % and it displays the final 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pourcentage</title>
+    <title>Document</title>
 </head>
 <body>
- 
-
-    
 
     <nav>
         <ul>
-          <li><a href="application.html">Accueil</a></li>
+            <li><a href="application.html">Accueil</a></li>
             <li><a href="asitepresentation.html">Exercice</a></li>
         </ul>
     </nav>
@@ -119,12 +116,10 @@ a site where you put the price and the promotion in % and it displays the final 
         text-align: center;
     }
 
-
-
-    nav {
+nav {
             background-color: #292f3f;
             padding: 10px;
-            text-align: center;
+          
         }
 
         nav ul {
@@ -148,5 +143,4 @@ a site where you put the price and the promotion in % and it displays the final 
         nav a:hover {
             color: #007bff;
         }
-   
 </style>
